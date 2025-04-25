@@ -1,2 +1,3 @@
-- Olivetin scripts that are executed on a [gethomepage](https://gethomepage.dev/) lan site.
+- [Olivetin](https://www.olivetin.app/) scripts that are executed on a [gethomepage](https://gethomepage.dev/) lan site.
+- Assumes you're running Olivetin.
 - Other thoughts: Presently, these shell scripts as-is use hardcoded API tokens. Probably don't do that. They're ran on a home environment and will be swapped out *eventually.*
