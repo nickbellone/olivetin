@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PIHOLE_URL="" #url of admin api
-API_TOKEN="" #api token
+PIHOLE_URL="IPADDR/admin/api.php"
+API_TOKEN=""
 
 # POST to enable
 curl -s -X POST "${PIHOLE_URL}?enable&auth=${API_TOKEN}" \

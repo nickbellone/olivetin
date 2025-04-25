@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PIHOLE_URL="" #url of admin api
-API_TOKEN="" #token
+PIHOLE_URL="IPADDR/admin/api.php"
+API_TOKEN=""
 
 # Duration to disable in seconds. By default this is indefinite.
 #DISABLE_DURATION=300
