@@ -1,0 +1,2 @@
+- Olivetin scripts that are executed on a gethomepage lan site.
+- Other thoughts: Presently, these shell scripts as-is use hardcoded API tokens. Probably don't do that. They're ran on a home environment and will be swapped out *eventually.*
