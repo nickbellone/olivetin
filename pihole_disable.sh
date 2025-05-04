@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PIHOLE_HOST="http://192.168.50.97"
+PIHOLE_HOST=""
 PASSWORD=""      
 
 

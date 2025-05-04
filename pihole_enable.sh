@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PIHOLE_HOST="http://192.168.50.97"  # Your Pi-hole host URL
-PASSWORD="u6P8bnvUXsFeEbEUX3eWJWuyvvoPHXJiLQK"      # Your Pi-hole password
+PIHOLE_HOST=""  # IP
+PASSWORD=""      
 
 auth_and_disable() {
     auth_response=$(curl -s -X POST "${PIHOLE_HOST}/api/auth" \
