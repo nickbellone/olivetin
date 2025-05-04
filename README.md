@@ -1,3 +1,4 @@
-- [Olivetin](https://www.olivetin.app/) scripts that are executed on a [gethomepage](https://gethomepage.dev/) lan site.
+- [Olivetin](https://www.olivetin.app/) scripts that are executed on a [gethomepage](https://gethomepage.dev/) lan site and enable/disable Pihole DNS controls.
+- Disables for 15 min or enables Pihole and then deletes Pihole session after execution.
 - Assumes you're running Olivetin.
-- Other thoughts: Presently, these shell scripts as-is use hardcoded API tokens. Probably don't do that. They're ran on a home environment and will be swapped out *eventually.*
+- Other thoughts: Presently, these shell scripts as-is use hardcoded passwords. These are ran on a home environment and are not accessible to the internet.
